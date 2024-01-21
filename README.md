@@ -1,2 +1,2 @@
-# Comforty
-html and css bootstrap 5
+# CSS-Practice
+CSS-Practice basic
